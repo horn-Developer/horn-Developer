@@ -46,3 +46,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </p>
+
+### 🚀 What I Do
+* Build E-Commerce, attendance , Bank  & Management Systems
+* Develop REST APIs with JWT Authentication ,login
+* Integrate Bakong Payment
+* Teach Frontend, Backend & Basic Networking
+---
+### 📫 Contact me:
+
+* 🌐 Facebook: [your-facebook-link](https://facebook.com/your-profile)
+* 🐙 GitHub: [horn-Developer](https://github.com/horn-Developer)
+* 📱 Telegram: [@PENHHORN](https://t.me/your-telegram)]
