@@ -51,10 +51,10 @@
 * Build E-Commerce, attendance , Bank  & Management Systems
 * Develop REST APIs with JWT Authentication ,login
 * Integrate Bakong Payment
-* Teach Frontend, Backend & Basic Networking
+* build Frontend, Backend & Basic Networking
 ---
 ### 📫 Contact me:
 
 * 🌐 Facebook: [your-facebook-link](https://facebook.com/your-profile)
 * 🐙 GitHub: [horn-Developer](https://github.com/horn-Developer)
-* 📱 Telegram: [@PENHHORN](https://t.me/your-telegram)]
+* 📱 Telegram: [@PENHHORN](https://t.me/your-telegram)
