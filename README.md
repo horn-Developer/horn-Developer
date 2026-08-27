@@ -58,10 +58,10 @@
 * 🌐 Facebook: [your-facebook-link](https://facebook.com/your-profile)
 * 🐙 GitHub: [horn-Developer](https://github.com/horn-Developer)
 * 📱 Telegram: [@PENHHORN](https://t.me/your-telegram)
-* 
-### 🛠️ Deployment & Version Control Tools
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="40" height="40" alt="Render" style="margin-right: 15px;" />
-  <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="40" height="40" alt="Vercel" />
-</p>
+### 🛠️ Deployment & Version Control Tools
+  <p>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6xHPvKvUIZbOnlFCuDP6TcLhkUk5XyxVFEG72SQxOQ&s=10" width="40" height="40" alt="Render"    style="margin-right: 15px;" />
+   <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="40" height="40" alt="Vercel" />
+    </p>
+
