@@ -62,7 +62,6 @@
 ### 🛠️ Deployment & Version Control Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" style="margin-right: 15px;" />
   <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="40" height="40" alt="Render" style="margin-right: 15px;" />
   <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" width="40" height="40" alt="Vercel" />
 </p>
